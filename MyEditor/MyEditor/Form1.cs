@@ -15,6 +15,10 @@ namespace MyEditor
         public Form1()
         {
             InitializeComponent();
+            //tabControl.TabPages.Remove(tabS1);
+            //tabControl.TabPages.Remove(tabS2);
+            
         }
+      
     }
 }
